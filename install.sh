@@ -91,8 +91,5 @@ if [ "$text" = "y" ]; then
 		git clone git://github.com/Itseez/opencv.git
 		cd opencv*
 		git checkout 2.4.10
-		
-	
-
-
-
+	fi	
+fi
